@@ -5,9 +5,36 @@
 
 .layout-cabecalho  img {
     margin-top: 12px;
+    background-color: #fff;
+}
+
+.layout-cabecalho--home{
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1; 
 }
 
 .layout-planos {
     padding: 100px 0;
  }
 
+.layout-chamada{
+    padding: 80px 0;
+    background-color: #7ab55c;
+    margin-top: 60px;
+}
+
+layout-depoimento{
+    padding: 80px 0;
+    background-color: #e7e7e7;
+}
+
+.layout-rodape{
+    padding: 40px 0;
+    background-color: #484848;
+    color: #fff;
+    text-align: center;
+
+}
